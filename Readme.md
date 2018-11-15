@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CellSelectionHelper.cs](./CS/Q212929/CellSelectionHelper.cs) (VB: [CellSelectionHelper.vb](./VB/Q212929/CellSelectionHelper.vb))
+* [Form1.cs](./CS/Q212929/Form1.cs) (VB: [Form1.vb](./VB/Q212929/Form1.vb))
+* [Program.cs](./CS/Q212929/Program.cs) (VB: [Program.vb](./VB/Q212929/Program.vb))
+<!-- default file list end -->
 # How to draw a rectangle around selected cells and implement a copy/paste functionality
 
 
